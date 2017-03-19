@@ -1,0 +1,7 @@
+# ===================================================================
+# JHipster Sample Spring Cloud Config.
+# ===================================================================
+
+# Property used on app startup to check the config server status
+info:
+    master: junfu.ssqq
